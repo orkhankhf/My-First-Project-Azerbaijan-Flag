@@ -1,0 +1,134 @@
+body{
+	margin: 0px;
+}
+.bayraq{
+	margin-top: 100px;
+	margin-left: 100px;
+	width: 1200px;
+	height: 600px;
+}
+.goy{
+	width: 100%;
+	height:200px;
+	background-color: #0097c3;
+}
+.qirmizi{
+	height: 186px;
+	background-color:#e00034;
+	padding-top: 7px;
+	padding-bottom: 7px;
+
+}
+.yasil{
+	width:100%;
+	height:200px;
+	background-color:#00ae65;
+}
+.ay{
+	position: relative;
+	margin-top: 2px;
+	left: 490px;
+	width: 180px;
+	height: 180px;
+	border-radius: 50%;
+	background-color: white;
+	display: inline-block;
+}
+.ayici{
+	width: 150px;
+	height: 150px;
+	border-radius:50%;
+	background-color: #e00034;
+	position: relative;
+	left: 340px;
+	bottom: 15px;
+	display: inline-block;
+}
+.ulduzust{
+	position: relative;
+	top: -77px;
+	height: 0px;
+	width: 0px;
+	border-right: 10px solid transparent;
+	border-left: 10px solid transparent;
+	border-bottom: 29px solid white;
+}
+.ulduzalt{
+	position: relative;
+	top: 77px;
+	height: 0px;
+	width: 0px;
+	border-top: 29px solid white;
+	border-right: 10px solid transparent;
+	border-left: 10px solid transparent;
+}
+.orta{
+	width:20px;
+	height:48px;
+	background-color: white;
+}
+.ulduzhazir{
+	position: relative;
+	top: 6px;
+	left: 300px;
+	display:inline-block;
+	width: 200px;
+}
+.orxan{
+	position: relative;
+	left: 14px;
+	top: -43px;
+	display: inline-block;
+}
+.orxan1{
+	position: relative;
+	top: -43px;
+	left: -10px;
+	display: inline-block;
+	-webkit-transform :rotate(45deg);
+}
+.orxan2{
+	position: relative;
+	top: -43px;
+	left: -34px;
+	display: inline-block;
+	-webkit-transform :rotate(-45deg);
+}
+.orxan3{
+	position: relative;
+	top: -43px;
+	left: -58px;
+	display: inline-block;
+	-webkit-transform :rotate(90deg);
+}
+.orta{
+	width:20px;
+	height:48px;
+	background-color: gray;
+}
+.orta1{
+	width:20px;
+	height:48px;
+	background-color: gray;
+}
+.orta2{
+	width:20px;
+	height:48px;
+	background-color: gray;
+}
+.orta3{
+	width:20px;
+	height:48px;
+	background-color: gray;
+}
+.ortaorta{
+	position: relative;
+	left: -98px;
+	top: -70px;
+	width: 52px;
+	height: 52px;
+	border-radius: 50%;
+	background-color: white;
+	display: inline-block;
+
+}
